@@ -11,3 +11,10 @@ h2 {
 h3 {
 	font-family: helvetica;
 }
+.questions {
+	color: #325C08;
+	font-size: 20px;
+}
+.frontpageheader {
+	text-align: center;
+}
