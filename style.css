@@ -6,7 +6,8 @@ h1 {
 	font-family: helvetica;
 }
 h2 {
-	font-family: helvetica;
+	font-family: helvetica
+	color;
 }
 h3 {
 	font-family: helvetica;
@@ -17,8 +18,7 @@ h3 {
 }
 .frontpageheader {
 	text-align: center;
-}
-
+	font-family:'Lobster', cursive;
 }
 .header {
 	height: 130px;
