@@ -1,5 +1,5 @@
 body {
-	background-color:white;
+	background-color:#71E3CA;
 }
 h1 {
 	color:#BD1900;
@@ -18,3 +18,12 @@ h3 {
 .frontpageheader {
 	text-align: center;
 }
+
+}
+.header {
+	height: 130px;
+	background-image: url(elefantdrop.jpg);
+}
+.footer {
+	height: 200px;
+	background-image: url(elefantdrop.jpg);
