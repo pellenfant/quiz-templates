@@ -1,6 +1,8 @@
 body {
 /*	background-color:#71E3CA;
 */	background: linear-gradient(to right bottom, yellow, orange, #BD1900);
+	background-size: cover;
+	min-height: 2000px
 }
 
 
@@ -23,10 +25,10 @@ h3 {
 	text-align: center;
 	font-family:'Lobster', cursive;
 }
-.header {
+/*.header {
 	height: 130px;
 	background-image: url(elefantdrop.jpg);
 }
 .footer {
 	height: 200px;
-	background-image: url(elefantdrop.jpg);
+	background-image: url(elefantdrop.jpg);*/
