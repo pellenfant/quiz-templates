@@ -1,6 +1,9 @@
 body {
-	background-color:#71E3CA;
+/*	background-color:#71E3CA;
+*/	background: linear-gradient(to right bottom, yellow, orange, #BD1900);
 }
+
+
 h1 {
 	color:#BD1900;
 	font-family: helvetica;
