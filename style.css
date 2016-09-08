@@ -9,6 +9,7 @@ body {
 h1 {
 	color:#BD1900;
 	font-family: helvetica;
+	;
 }
 h2 {
 	font-family: helvetica
@@ -24,6 +25,10 @@ h3 {
 .frontpageheader {
 	text-align: center;
 	font-family:'Lobster', cursive;
+}
+
+.centertext {
+	text-align: center;
 }
 /*.header {
 	height: 130px;
